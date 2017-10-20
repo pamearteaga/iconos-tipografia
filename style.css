@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+
+h1{
+
+	text-align: center;
+	color: violet;
+	font-family: 'Pacifico', cursive;
+}
+
+
+p{
+
+	text-align: center;
+}
+
+.fa {
+
+	font-size: 70px;
+    text-align: center;
+    color: MediumSpringGreen;
+}
+
+.fa-snowflake-o:hover {
+
+	color: SkyBlue ;
+	font-size: 90px;
+
+}
+
+.fa-free-code-camp:hover {
+
+	color: OrangeRed  ;
+	font-size: 90px;
+
+}
+
+.fa-bicycle:hover {
+
+	color: grey  ;
+	font-size: 90px;
+
+}
+
+
+
